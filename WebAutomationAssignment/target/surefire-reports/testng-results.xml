@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="91462" started-at="2019-10-25T05:40:17 IST" finished-at="2019-10-25T05:41:49 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="91462" started-at="2019-10-25T05:40:17 IST" finished-at="2019-10-25T05:41:49 IST">
+      <class name="com.testsuiteexecutor.Assignment1Test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testsuiteexecutor.Assignment1Test@27efef64]" name="setUp" is-config="true" duration-ms="3421" started-at="2019-10-25T05:40:17 IST" finished-at="2019-10-25T05:40:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="assignment1TestCase()[pri:0, instance:com.testsuiteexecutor.Assignment1Test@27efef64]" name="assignment1TestCase" duration-ms="38456" started-at="2019-10-25T05:40:21 IST" finished-at="2019-10-25T05:40:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assignment1TestCase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testsuiteexecutor.Assignment1Test@27efef64]" name="tearDown" is-config="true" duration-ms="248" started-at="2019-10-25T05:40:59 IST" finished-at="2019-10-25T05:40:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testsuiteexecutor.Assignment1Test -->
+      <class name="com.testsuiteexecutor.Assignment2Test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testsuiteexecutor.Assignment2Test@6f7fd0e6]" name="setUp" is-config="true" duration-ms="1783" started-at="2019-10-25T05:41:00 IST" finished-at="2019-10-25T05:41:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="assignment2TestCase()[pri:0, instance:com.testsuiteexecutor.Assignment2Test@6f7fd0e6]" name="assignment2TestCase" duration-ms="47131" started-at="2019-10-25T05:41:01 IST" finished-at="2019-10-25T05:41:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assignment2TestCase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testsuiteexecutor.Assignment2Test@6f7fd0e6]" name="tearDown" is-config="true" duration-ms="353" started-at="2019-10-25T05:41:48 IST" finished-at="2019-10-25T05:41:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testsuiteexecutor.Assignment2Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
